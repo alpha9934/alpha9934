@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek
-- 👀 I’m interested in ML,DL,NLP,GAN,Android App Development
+- 👀 I’m interested in ML,DL,NLP.
 - 🌱 I’m currently learning Chatbot Development
 - 💞️ I’m looking to collaborate on NLP based projects
 - 📫 How to reach me  <a href="https://www.linkedin.com/in/abhishek-kumar-gupta-533511149/" target="_top"> Linked.In Profile </a>
