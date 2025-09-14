@@ -7,4 +7,4 @@ My current mission involves wrangling data in the cloud, where I'm constantly le
 **Let's Connect!**
 - 💼 Find me on LinkedIn: https://www.linkedin.com/in/abhishek-kumar-gupta-533511149/
 - 📧 Reach out via email: abhishekkumargupta060@gmail.com
-Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=abhishek-kumar-gupta-533511149
+
